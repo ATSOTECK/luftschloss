@@ -1,1 +1,3 @@
-# luftschloss
+# Luftschloss
+
+A text editor
